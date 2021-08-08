@@ -8,6 +8,7 @@ All of the statistical analysis and visualizations is written in the R programmi
 ## Resources
 
 Data Source: MechaCar_mpg.csv, Suspension_Coil.csv
+
 Software: RStudio Version 1.4.1717
 
 ## Linear Regression to Predict MPG
