@@ -20,9 +20,9 @@ Software: RStudio Version 1.4.1717
 
 ## Summary Statistics on Suspension Coils
 
-![image](https://user-images.githubusercontent.com/82549869/128639216-22f9aa9a-8b10-41d1-a7b1-03edba771b8a.png) 
+![image](https://user-images.githubusercontent.com/82549869/128639708-4e4568fc-3a9a-42f6-b9d4-f955cc5bbe51.png) 
                     
-![image](https://user-images.githubusercontent.com/82549869/128639225-17cb2d24-5467-4b91-85d4-21529b2bd6bb.png)
+![image](https://user-images.githubusercontent.com/82549869/128639719-4850a330-5bb3-4581-a235-90d11c26a8ac.png)
                      
 - The MechaCar suspension coils must not have a deviation of more than 100 pounds per square inch, according to the design specifications.
 - With a global variance of 62.3 psi, the design parameters are followed for all production lots.
